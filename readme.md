@@ -1,6 +1,6 @@
 # Sistema de Pedido Web
 
-Projeto desenvolvido para a disciplina **Programação WebI**, turma ESN5, do curso de Engenharia de Software, sob orientação do professor Daniel Correia.  
+Projeto desenvolvido para a disciplina **POO3**, turma ESN5, do curso de Engenharia de Software, sob orientação do professor Daniel Correia.  
 Autor: Bruno Custódio de Castro Silva.
 
 ---
