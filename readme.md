@@ -1,6 +1,6 @@
 # Sistema de Pedido Web
 
-Projeto desenvolvido para a disciplina **Estrutura de Dados II**, turma ESN4, do curso de Engenharia de Software, sob orientação do professor Juliano Adorno Maia.  
+Projeto desenvolvido para a disciplina **Programação WebI**, turma ESN5, do curso de Engenharia de Software, sob orientação do professor Daniel Correia.  
 Autor: Bruno Custódio de Castro Silva.
 
 ---
